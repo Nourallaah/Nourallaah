@@ -1,4 +1,4 @@
-# Hi, I'm Nourallah Hassan Zaki 👋
+# Hi, I'm Nourallah Hassan Zaki Hassan
 
 Senior Biomedical Engineering student at **Cairo University** (expected 2027) working on biomedical signal processing, embedded systems, research, and healthcare software development.
 

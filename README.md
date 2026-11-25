@@ -5,7 +5,7 @@ Senior Biomedical Engineering student at **Cairo University** (expected 2027) wo
 ## 📄 Research & Publications
 
 - **Equal-contribution co-author** of a scoping review on seizure detection and prediction methods, published in *Expert Review of Medical Devices* (March 2026). [doi:10.1080/17434440.2026.2632757](https://doi.org/10.1080/17434440.2026.2632757)
-- **Co-first author** of a systematic review assessing the quality of public non-EEG wearable datasets for motor seizures using the FAIR and WEAR guidelines (submitted to *Epilepsia*, November 2026).
+- **Co-author** of a systematic review assessing the quality of public non-EEG wearable datasets for motor seizures using the FAIR and WEAR guidelines (submitted to *Epilepsia*, November 2026).
 - Undergraduate researcher at Cairo University since March 2024, supervised by Prof. Aliaa Rehan.
 
 ## 💼 Experience

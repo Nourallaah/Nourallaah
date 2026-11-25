@@ -29,6 +29,7 @@ Senior Biomedical Engineering student at **Cairo University** (expected 2027) wo
 | [acl-imu-jump-landing-screening](https://github.com/NourBahgat/acl-imu-jump-landing-screening) | Portable ACL injury risk assessment: fuses multi-IMU data to compute knee flexion and abduction angles, with a real-time web app showing per-leg jump-landing risk | IMUs, ESP32, Web |
 | [FitzHugh-Nagumo-Solutions-Simulation](https://github.com/Nourallaah/FitzHugh-Nagumo-Solutions-Simulation) | Simulation of the FitzHugh–Nagumo model using Euler, FVM, and PINNs | Jupyter Notebook |
 | [AssetTask_finalProject](https://github.com/Nourallaah/AssetTask_finalProject) | Role-based asset-management platform (Admin, Manager, Developer) with JWT authentication | Spring Boot, React, PostgreSQL |
+| Equipment Calibration Management System (private repository) | Full-stack app built during my internship at Adam International Hospital. It recommends 1-year or 2-year equipment calibration intervals based on tolerance proximity and year-over-year drift, with risk classification (Classes 1–3), dashboards, printable reports and audit logging. *The repository is private because it contains hospital data that cannot be shared.* | React, FastAPI, PostgreSQL |
 
 ## 📦 More repositories
 
